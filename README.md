@@ -1,24 +1,7 @@
 # Inkscape-Tutorial
 Inkscape Grundlagen
 
-<!DOCTYPE html>
-<html lang="de">
-    <head>
-            <ul style="list-style-position: inside;">
-        <title>Inkscape Tutorial</title>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-              
-              
-
-              
-</head>    
       
-      
-      
-    <body>
-        <h1>Inkscape Tutorial</h1>
-                <br>  <br>
 <font size="+2">
 <b>Einleitung</b><br>
 Inkscape ist ein professionelles Programm zur Bearbeitung von Vektorgrafiken für Windows, Mac OS X und GNU/Linux.
@@ -41,7 +24,7 @@ Objektmanipulation mit dem Auswahlwerkzeug, Gruppierung, Ändern von Füllfarbe 
 <b>Die Arbeitsfläche verschieben</b><br>
 Es gibt mehrere Möglichkeiten die Arbeitsfläche zu verschieben, sehr einfach kann das Arbeitsblatt mit dem
 
-&nbsp;<span style="border: 2px solid black;">&nbsp;Mausrad&nbsp;</span>&nbsp;
+*Mausrad*
 
 nach oben und nach unten bewegt werden.
 
