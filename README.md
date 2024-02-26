@@ -1,7 +1,7 @@
 # Inkscape-Tutorial
 Inkscape Grundlagen
 
-<p>Mausrad</p>
+<b>Mausrad</b>
       
 <font size="+2">
 <b>Einleitung</b><br>
