@@ -294,6 +294,29 @@ Mit "Alt+3" kann das Layout kontrolliert werden.
 
 ![Bild](pic/35inkscape.png)
 
+### OpenScad-Vorlage mit Inkscape erstellen
+
+Eine Inkscape-Zeichnung kann in OpenScad importiert und extrudiert werden. 
+
+Die Inkscape Zeichnung:
+
+![Bild](pic/35Kugel.png)
+
+In OpenScad wird die Zeichnung importiert und extrudiert:
+
+```
+//Weihnachtsdeko
+
+fn=$60;
+linear_extrude(height = 5, center = true, convexity = 10)
+import("Sesamkugel8.svg");
+
+```
+
+![Bild](pic/36OpenScad.png)
+
+
+
 Schlusswort
 Dies ist das Ende des Grundlagen-Tutorials. Das waren längst noch nicht alle Funktionen in Inkscape, aber mit den hier vermittelten Techniken kannst du schon einfache, aber nützliche Grafiken erstellen. Um kompliziertere Techniken zu erlernen, schaust du dir die Tutorials auf der Inkscape Internet-Seite an.
 
