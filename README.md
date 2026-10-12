@@ -5,19 +5,11 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Inkscape-Tutorial/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Inkscape-Tutorial/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Inkscape-Tutorial/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2021-blue)|<a href="https://github.com/frankyhub/Inkscape-Tutorial/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Inkscape-Tutorial)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Inkscape-Tutorial)|<a href="https://github.com/frankyhub/Inkscape-Tutorial/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Inkscape-Tutorial)|<a href="https://github.com/frankyhub/Inkscape-Tutorial/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Inkscape-Tutorial)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Inkscape-Tutorial)| <a href="https://github.com/frankyhub/Inkscape-Tutorial/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Inkscape-Tutorial/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
-</div>
-
-
-
-
+<a href="https://github.com/frankyhub/Inkscape-Tutorial/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Inkscape-Tutorial)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Inkscape-Tutorial)|<a href="https://github.com/frankyhub/Inkscape-Tutorial/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Inkscape-Tutorial)|<a href="https://github.com/frankyhub/Inkscape-Tutorial/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Inkscape-Tutorial)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2021-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Inkscape-Tutorial)| <a href="https://github.com/frankyhub/Inkscape-Tutorial/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Inkscape-Tutorial/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 
 ## Inkscape Tutorial
-
-
-
 
 ### Einleitung
 Inkscape ist ein professionelles Programm zur Bearbeitung von Vektorgrafiken für Windows, Mac OS X und GNU/Linux. Es wird dazu verwendet, Bilder, wie Illustrationen, Icons, Logos, Diagramme, 
@@ -48,16 +40,19 @@ Die senkrechte Werkzeugleiste auf der rechten Seite zeigt Werkzeuge zum position
 Nun ist es Zeit, ein paar Formen zu erstellen! Klicke auf das Rechteckwerkzeug in der Werkzeugleiste auf der linken Seite oder die  R  -Taste und zeichne Rechtecke. Mit  Steuerung  +  Z   können Aktionen rückgängig gemacht werden.
 Mit dem Auswahl Werkzeug (Pfeiltaste links oben) oder der  S  -Taste kann man mit gedrückter linker Maustaste einen Rahmen um seine Objekte ziehen und mit der  Entf  -Taste wieder löschen.
 
-![Bild](pic/01inkscape.png)
+<img src="pic/01inkscape.png" width="500"> 
+<br> <br>
 
 ### Mit anderen Werkzeugen lassen sich auch Ellipsen, Sterne und Spiralen erstellen:
 
-![Bild](pic/02inkscape.png)
+<img src="pic/02inkscape.png" width="500"> 
+<br> <br>
 
 ### Bewegen, Größe ändern, Drehen
 Das am häufigsten verwendete Werkzeug in Inkscape ist das Auswahlwerkzeug. Klicke den obersten Knopf (mit dem Pfeil) in der Werkzeugleiste, oder das S. Nun kannst du jedes Objekt auf der Seite auswählen.
 
-![Bild](pic/03inkscape.png)
+<img src="pic/03inkscape.png" width="500"> 
+<br> <br>
 
 Du siehst jetzt acht pfeilförmige Anfasser um das markierte Objekt. Jetzt hast du mehrere Möglichkeiten:
 - Verschieben des Objekts durch Ziehen mit gedrückter  linker Maus  -Taste. Drücke gleichzeitig  Strg  -Taste, um die Bewegung auf horizontale oder vertikale Richtung zu beschränken.
@@ -67,17 +62,20 @@ Nun klicke noch einmal auf das Rechteck. Die Anfasser sehen jetzt anders aus. Je
 - Drehen des Objektes durch Klicken und Ziehen an den Eck-Anfassern. Zum stufenweisen Drehen in Schritten von 15° halte  Strg   gedrückt. Verschiebe das Kreuz in der Mitte, um den Drehmittelpunkt festzulegen.
 Verändere die Form des Objekts durch Klicken und Ziehen an den Anfassern an den Längsseiten. Der aktuelle Scher-Winkel wird unten in der Taskleiste angezeigt.
 
-![Bild](pic/04inkscape.png)
+<img src="pic/04inkscape.png" width="500"> 
+<br> <br>
 
 Wenn das Auswahlwerkzeug aktiv ist und ein oder mehrere Objekte ausgewählt sind, kann man auch die Eingabefelder in der Werkzeugeinstellungsleiste über der Arbeitsfläche benutzen, um genaue Werte für die Koordinaten (X und Y) und die Größe (B und H) einzugeben.
 
-![Bild](pic/05inkscape.png)
+<img src="pic/05inkscape.png" width="500"> 
+<br> <br>
 
 ### Mehrfachauswahl
 Man kann mehrere Objekte gleichzeitig durch  Umschalt  +  linke Maus  -Taste, oder durch Ziehen um die Objekte herum auswählen. Letzteres wird Gummibandauswahl genannt. Das Auswahlwerkzeug erzeugt das 
 Gummiband durch Ziehen über einem leeren Teil der Seite, aber immer auch, wenn vor dem Ziehen die  Umschalt  -Taste gedrückt wird. Übe das, indem du drei Formen markierst:
 
-![Bild](pic/06inkscape.png)
+<img src="pic/06inkscape.png" width="500"> 
+<br> <br>
 
 Jedes einzelne Objekt einer Auswahl zeigt einen Objektrahmen - normalerweise einen gestrichelten, rechteckigen Rahmen. So kann man ganz einfach sehen, was ausgewählt ist und was nicht.
 
@@ -91,12 +89,14 @@ Um eine Gruppe zu erzeugen, wählt man ein oder mehrere Objekte aus und drückt 
 Diese Funktionen finden sich auch im Kontextmenü, öffne es mit einem  Maus Rechtsklick  , dem Menü Objekt und der Befehlsleiste. Gruppierungen können selbst auch gruppiert werden, wie jedes andere Objekt auch.
 Solche verschachtelten Gruppierungen können beliebig tief weitergeführt werden. Einmaliges drücken der  Strg  +  linke Maus  -Taste hebt nur die letzte Gruppierung einer ausgewählten Gruppe auf.
 
-![Bild](pic/07inkscape.png)
+<img src="pic/07inkscape.png" width="500"> 
+<br> <br>
 
 ### Füllung und Kontur
 Die wohl einfachste Möglichkeit, wie man ein Objekt einfärben kann, ist, es auszuwählen und dann auf eines der Farbmuster, also eines der farbigen Kästchen unterhalb der Arbeitsfläche, zu klicken. Dies ändert die Füllfarbe.
 
-![Bild](pic/08inkscape.png)
+<img src="pic/08inkscape.png" width="500"> 
+<br> <br>
 
 
 Alternativ kann der "Füllung und Kontur" vom Ansicht-Menü aus geöffnet werden oder mittels  Umschalt  +  Strg  +  F  -Taste.
@@ -105,7 +105,8 @@ Mit den Knöpfen direkt unter dem Reiter kann man die Füllungsart verändern: d
 
 Weiter unten sieht man verschiedene Farbwahlmöglichkeiten. Jede hat einen eigenen Reiter: RGB, HSL, CMYK und Farbrad. Wahrscheinlich am praktischsten ist das Farbrad, bei dem man das Dreieck verdrehen kann, um den Farbton zu wählen und dann die gewünschte Helligkeit im Dreieck auswählt. Alle Farbwähler besitzen einen Schieberegler beschriftet mit "A", um den Alpha-Kanal (die Deckkraft) der ausgewählten Farbe einzustellen.
 
-![Bild](pic/09inkscape.png)
+<img src="pic/09inkscape.png" width="500"> 
+<br> <br>
 
 Immer, wenn du ein Objekt auswählst, zeigt der Farbwähler dessen aktuelle Farbe und Kontur. Bei mehr als einem markierten Objekt wird die Durchschnittsfarbe angezeigt.
 
@@ -121,11 +122,13 @@ Es öffnet sich der Texteditor für die Eingabe des Textes. Mit betätigen des K
 Projekt ein und klicke dann auf [Anwenden]. Mit einem Klick auf [Als Standard festlegen] werden alle ab jetzt angelegten Textobjete diese Einstellung übernehmen.
 
 
-![Bild](pic/10inkscape.png)
+<img src="pic/10inkscape.png" width="500"> 
+<br> <br>
 
 Alternativ kann man in der linken Werkzeugleiste das Textwerkzeug auswählen und an die Stelle des Arbeitsbereichs klicken, wo man den Text hinzufügen möchte.
 
-![Bild](pic/11inkscape.png)
+<img src="pic/11inkscape.png" width="500"> 
+<br> <br>
 
 Textobjekte können wie jedes andere Objekt auch mit Farben versehen und beliebig skaliert werden. Für weitere Textobjekte wähle wieder das Textwerkzeug in der Werkzeugleiste aus und klicke danach an die jeweils gewünschte Position für den Text im Arbeitsbereich. Durch einen Doppelklick auf ein Textobjekt kannst du den enthaltenen Text bearbeiten. Um Textobjekte mit anderen Objekten zusammenzuführen, musst du diese in Pfade konvertieren. Markiere hierzu den Text und klicke auf [Pfad] [Objekt in Pfad umwandeln]. Danach kann der Text nicht mehr bearbeitet werden.
 
@@ -140,18 +143,21 @@ Inkscape bietet die Möglichkeit, Textzeilen in eine gewüschte Form zu bringen,
 + Menü: Text, Text an Pfad ausrichten.
 + Kreis markieren und Text in die gewünschte Lage drehen.
 
-![Bild](pic/12inkscape.png)
+<img src="pic/12inkscape.png" width="500"> 
+<br> <br>
 
 + Ggf. den Kreis markieren und mit der unteren Markierung in ein Oval biegen.
 + Einen Buchstaben markieren.
 + Es erscheint automatisch die Symbolleiste zum Formatieren von Texten.
 + Jetzt den Text markieren und Zeichenabstand, Wortabstand und Unterschneidungen einstellen.
 
-![Bild](pic/13inkscape.png)
+<img src="pic/13inkscape.png" width="500"> 
+<br> <br>
 
 + Wenn der Text ok ist, Text in Pfade umwandeln und den Kreis oder das Oval löschen.
 
-![Bild](pic/14inkscape.png)
+<img src="pic/14inkscape.png" width="500"> 
+<br> <br>
 
 
 ### Eine Stempelvorlage erstellen
@@ -168,7 +174,8 @@ Inkscape bietet die Möglichkeit, eine Stempelvorlage zu erstellen, die z. B. au
 + Mit "G=100, L=45 und Modus Füllen" lasern.
 + Stempel-Vorschau in LightBurn:
 
-![Bild](pic/15inkscape.png)
+<img src="pic/15inkscape.png" width="500"> 
+<br> <br>
 
 
 ### Vektorisieren von Rastergrafiken
@@ -177,35 +184,41 @@ Inkscape beinhaltet ein Werkzeug, mit dem sich ein Bitmap-Bild in ein Pfad-Eleme
 Lade oder importiere das Bild, das du vektorisieren willst mit "Datei + Impotieren" und betästige mit "Öffnen".
 Die Grundeinstellungen können mit OK übernommen werdenn.
 
-![Bild](pic/16inkscape.png)
+<img src="pic/16inkscape.png" width="500"> 
+<br> <br>
 
 Das Bitmap wird geladen:
 
-![Bild](pic/17inkscape.png)
+<img src="pic/17inkscape.png" width="500"> 
+<br> <br>
 
 Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  Alt  +  B  -Taste das Fenster Bitmap nachzeichnen öffnen.
 
-![Bild](pic/18inkscape.png)
+<img src="pic/18inkscape.png" width="500"> 
+<br> <br>
 
 Wenn wir den "Aktualisieren-Button" betätigen wird die Vorschau geladen.
 
-![Bild](pic/19inkscape.png)
-
+<img src="pic/19inkscape.png" width="500"> 
+<br> <br>
 Wir können jetzt den Helligkeitsschwellwert optimieren und ggf. das Bitmap invertieren. Nach betätigen des "Anwenden" Buttons wird die Ansicht aktualisiert.
 
-![Bild](pic/20inkscape.png)
+<img src="pic/20inkscape.png" width="500"> 
+<br> <br>
 
 Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die vektorisierte Grafik.
 
-![Bild](pic/21inkscape.png)
-
+<img src="pic/21inkscape.png" width="500"> 
+<br> <br>
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
-![Bild](pic/22inkscape.png)
+<img src="pic/22inkscape.png" width="500"> 
+<br> <br>
 
 Wenn die Füllung entfernt wird, sieht man den Umriss der Zeichnung.
 
-![Bild](pic/23inkscape.png)
+<img src="pic/23inkscape.png" width="500"> 
+<br> <br>
 
 ### KiCAD-Vorlage mit Inkscape erstellen
 
@@ -216,19 +229,22 @@ Die Inkscape Erweiterung Svg2Shenzhen von github oder der Inkscape.org Seite lad
 
 Der Ordner für Erweiterungen kann über das Menü "Bearbeiten" -> "Einstellungen" abgefragt werden.
 
-![Bild](pic/24inkscape.png)
+<img src="pic/24inkscape.png" width="500"> 
+<br> <br>
 
 Inkscape neu starten.
 
 Nach der Installation von "Svg2Shenzhen" ist unter "Erweiterungen" der Menüpunkt "Svg2Shenzhen" zu sehen.
 
-![Bild](pic/25inkscape.png)
+<img src="pic/25inkscape.png" width="500"> 
+<br> <br>
 
 Jetzt kann in Inkscape mit dem Erstellen der KiCAD-Vorlage begonnen werden.
 
 Das gewünschte Bild in Inkscape importieren. In diesem Beispiel wird ein Geist verwendet.
 
-![Bild](pic/17inkscape.png)
+<img src="pic/17inkscape.png" width="500"> 
+<br> <br>
 
 Das importierte Bild markieren und im Menü "Pfad" -> "Bitmap nachzeichnen..." wählen.
 
@@ -236,7 +252,8 @@ Den Helligkeitsschwellwert entsprechend den untensthenden Bild einstellen und ak
 
 Mit OK bestätigen und das Fenster schließen.
 
-![Bild](pic/27inkscape.png)
+<img src="pic/27inkscape.png" width="500"> 
+<br> <br>
 
 Das erstellte Bitmap wird die Front-Ansicht der Platine.
 
@@ -244,20 +261,21 @@ Jetzt wird der Platinen-Umriss erzeugt und der Schritt "Pfad" -> "Bitmap nachzei
 
 Dabei verändern wir die Einstellung "Helligkeitsschwellwert" so, dass der gesamte Umriss zu sehen ist.
 
-
-![Bild](pic/28inkscape.png)
+<img src="pic/28inkscape.png" width="500"> 
+<br> <br>
 
 
 Beim Umriss mit "Füllung und Kontur" die Füllung deaktivieren.
 
-![Bild](pic/29inkscape.png)
-
+<img src="pic/29inkscape.png" width="500"> 
+<br> <br>
 
 Mit dem Pfadwerkzeug das Gesicht im zweiten Bitmap löschen, es bleibt nur der Umriss übrig.
 
 Wir haben jetzt den Geist als Kontur (Umriss) und als Bitmap (Frontansicht der Platine).
 
-![Bild](pic/30inkscape.png)
+<img src="pic/30inkscape.png" width="500"> 
+<br> <br>
 
 Die Datei wird jetzt gespeichert.
 
@@ -265,7 +283,8 @@ Im Menü "Erweiterungen" -> "Svg2Shenzhen" "1. Prepare Document..." auswählen u
 
 Die Haken bei den Layer "F.SilkS" und "Edge.Cuts" auswählen und mit "Anwenden" bestätigen.
 
-![Bild](pic/31inkscape.png)
+<img src="pic/31inkscape.png" width="500"> 
+<br> <br>
 
 Das Fenster schließen. Es wurden die beiden gewählten Ebenen "F.SilkS" und "Edge.Cuts" erzeugt.
 
@@ -275,8 +294,8 @@ Die Frontansicht der Platine markieren und mit einem Rechtsklick der Maus in die
 
 Die Frontansicht und den Umriss übereinander legen und in den mit Svg2Shenzhen erzeugten Rahmen verschieben.
 
-
-![Bild](pic/32inkscape.png)
+<img src="pic/32inkscape.png" width="500"> 
+<br> <br>
 
 Zur Kontrolle können die Ebenen ein- und ausgeblendet werden.
 
@@ -284,15 +303,18 @@ Im Menü "Erweiterungen" -> "Svg2Shenzhen" "2. Export to KiCAD..." auswählen un
 
 Mit "Anwenden" bestätigen.
 
-![Bild](pic/33inkscape.png)
+<img src="pic/33inkscape.png" width="500"> 
+<br> <br>
 
 Im Export-Pfad die PCB-Layout-Datei öffnen.
 
-![Bild](pic/34inkscape.png)
+<img src="pic/34inkscape.png" width="500"> 
+<br> <br>
 
 Mit "Alt+3" kann das Layout kontrolliert werden.
 
-![Bild](pic/35inkscape.png)
+<img src="pic/35inkscape.png" width="500"> 
+<br> <br>
 
 
 ### OpenScad-Vorlage mit Inkscape erstellen
@@ -301,7 +323,10 @@ Eine Inkscape-Zeichnung kann in OpenScad importiert und extrudiert werden.
 
 Die Inkscape Zeichnung:
 
-![Bild](pic/35Kugel.png)
+
+<img src="pic/35Kugel.png" width="500"> 
+<br> <br>
+
 
 In OpenScad wird die Zeichnung importiert und extrudiert:
 
@@ -314,7 +339,8 @@ import("Sesamkugel8.svg");
 
 ```
 
-![Bild](pic/36OpenScad.png)
+<img src="pic/36OpenScad.png" width="500"> 
+<br> <br>
 
 ---
 
