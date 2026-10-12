@@ -201,6 +201,7 @@ Wenn wir den "Aktualisieren-Button" betätigen wird die Vorschau geladen.
 
 <img src="pic/19inkscape.png" width="500"> 
 <br> <br>
+
 Wir können jetzt den Helligkeitsschwellwert optimieren und ggf. das Bitmap invertieren. Nach betätigen des "Anwenden" Buttons wird die Ansicht aktualisiert.
 
 <img src="pic/20inkscape.png" width="500"> 
@@ -210,6 +211,7 @@ Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die ve
 
 <img src="pic/21inkscape.png" width="500"> 
 <br> <br>
+
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
 <img src="pic/22inkscape.png" width="500"> 
@@ -329,6 +331,7 @@ Die Inkscape Zeichnung:
 
 
 In OpenScad wird die Zeichnung importiert und extrudiert:
+<div align="center">
 
 ```
 //Weihnachtsdeko
